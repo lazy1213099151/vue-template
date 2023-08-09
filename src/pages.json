@@ -1,0 +1,13 @@
+{
+	"pages": [
+		{
+			"path": "pages/Home/Home"
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "魔力Tools",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
